@@ -1,0 +1,4 @@
+baseURL = "http://vtta.github.io/blog/"
+languageCode = "en-us"
+title = "vtta's blog"
+theme = "slick"
